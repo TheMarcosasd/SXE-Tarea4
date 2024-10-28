@@ -22,3 +22,11 @@ Una vez iniciado, abrimos el contenedor y empezamos a instalar LAMP
 
 ![Screenshot_20241028_135110](https://github.com/user-attachments/assets/cf5e2ca6-7863-473f-b1e9-5e10377ee415)
 
+Instalamos apache2
+
+![Screenshot_20241028_135501](https://github.com/user-attachments/assets/ca56b6ab-0bf7-4a18-a403-e08ebf1e2bdd)
+
+Instalamos MariaDB
+
+![Screenshot_20241028_135653](https://github.com/user-attachments/assets/840fc265-5a9a-43d7-b1e5-07fc7a3f57dd)
+
