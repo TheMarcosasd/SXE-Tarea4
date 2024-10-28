@@ -30,3 +30,18 @@ Instalamos MariaDB
 
 ![Screenshot_20241028_135653](https://github.com/user-attachments/assets/840fc265-5a9a-43d7-b1e5-07fc7a3f57dd)
 
+Comprobamos que MariaDB se instalo correctamente
+
+![Screenshot_20241028_141249](https://github.com/user-attachments/assets/463eb791-fdd7-41b6-82ab-cd867556b8f8)
+
+Aseguramos la instalacion
+
+![Screenshot_20241028_141616](https://github.com/user-attachments/assets/557bc750-e0ba-425e-b528-6eada17ce70d)
+
+Instalamos PHP
+
+![Screenshot_20241028_141716](https://github.com/user-attachments/assets/1afc6a9d-1954-4c66-9835-e4f37990700e)
+
+
+
+
